@@ -3,7 +3,7 @@
 ### About Me
 
 <p>Blog : https://spicycookie.me</p>
-<p>Resule : https://b0jun.github.io</p>
+<p>Resume : https://b0jun.github.io</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0jun)](https://github.com/anuraghazra/github-readme-stats)
 
